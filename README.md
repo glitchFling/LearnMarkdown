@@ -1,4 +1,4 @@
-# # Welcome to LearnMarkdown.
+# Welcome to LearnMarkdown.
 Let's learn how to use markdown in Github. Hopefully you'll obtain some of this infomation, or not.<br>
 
 <p align="center">
